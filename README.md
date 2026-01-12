@@ -13,7 +13,7 @@ It visualizes power consumption data, highlights usage patterns, and provides si
 ---
 
 ##Live Link
-- https://ragingbulls.vercel.app/
+- https://voltifyhomemanage.vercel.app/
 
 ## Features
 - Real-time electricity consumption monitoring (simulated)
