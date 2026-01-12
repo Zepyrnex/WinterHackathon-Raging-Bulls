@@ -1,36 +1,31 @@
- # Project Name
+Project Name
+Voltify
 
-## Description
-Briefly explain what your project does, the problem it solves, and who it is for.
+Description
+Voltify is a web-based application that helps households understand and reduce electricity usage. It visualizes power consumption data, highlights usage patterns, and provides simple recommendations to minimize unnecessary energy consumption.
 
-# Demo Video Link: <insert Google Drive link to the demo video of the working of your project>
+Demo Video Link
+<Insert Google Drive link>
 
-## Features
-- Key feature 1
-- Key feature 2
-- Key feature 3
+Features
+- Real-time electricity consumption monitoring (simulated)
+- Consumption history and trend analysis through graphs
+- Energy-saving recommendations based on usage patterns
 
-## Tech Stack
-List the technologies, frameworks, and tools used in the project.
+Tech Stack
+HTML, CSS, JavaScript, Chart.js, Replit, Gemini
 
-## Google Technologies Used
-> ⚠️ Using Google products is **mandatory** for this hackathon.
+Google Technologies Used
+Google Firebase (future scope) for storing real-time energy data when integrated with actual devices
+Gemini for AI suggestions
 
-List the Google technologies you used and clearly explain **why** you chose them.
-
-**Example:**
-- **Firebase Authentication** – For secure and easy user authentication
-- **Firebase Firestore** – To store and manage real-time data
-- **Google Maps API** – To enable location-based features
-
-## Setup Instructions
-Steps to run the project locally:
+Setup Instructions
 1. Clone the repository
-2. Install dependencies
-3. Add environment variables (if any)
-4. Run the project
+2. Open the project folder
+3. Open index.html in a web browser or run using Live Server
 
-## Team Members
-- Name 1
-- Name 2
-- Name 3
+Team Members
+Name Abhinav
+Name Anunaya
+Name Ganapati
+Name Harshavardhan
