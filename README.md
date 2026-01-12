@@ -12,6 +12,9 @@ It visualizes power consumption data, highlights usage patterns, and provides si
 
 ---
 
+##Live Link
+- https://ragingbulls.vercel.app/
+
 ## Features
 - Real-time electricity consumption monitoring (simulated)
 - Consumption history and trend analysis using graphs
