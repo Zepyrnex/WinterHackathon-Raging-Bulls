@@ -8,7 +8,7 @@ It visualizes power consumption data, highlights usage patterns, and provides si
 ---
 
 ## Demo Video
-🔗 Insert Google Drive link here
+🔗 https://drive.google.com/file/d/1dBRwrYU52T4uZ51EnP7qAwub5gMsMTwj/view?usp=sharing
 
 ---
 
@@ -27,7 +27,6 @@ It visualizes power consumption data, highlights usage patterns, and provides si
 - CSS  
 - JavaScript  
 - Chart.js  
-- Replit  
 - Gemini  
 
 ---
@@ -35,22 +34,22 @@ It visualizes power consumption data, highlights usage patterns, and provides si
 ## Google Technologies Used
 - Google Firebase (future scope) for storing real-time energy data
 - Google Drive for hosting the demo video
+- Gemini AI for app development
 - Google Chrome DevTools for debugging and testing
-
----
-
-## Setup Instructions
-1. Clone the repository  
-2. Open the project folder  
-3. Open `index.html` in a web browser or run using Live Server  
-
+- Vercel for deployment of the webapp
+   
 ---
 
 ## Team Members
-- Abhinav  
-- Anunaya  
-- Ganapati  
-- Harsha  
+- Abhinav
+- Team Leader
+- Contributions: Research Analysis, Data collection, Project planning and coordination
+- Anunaya
+- Contributions: Video Editing, Data Collection, Research Analysis and data validation
+- Ganapati
+- Contribution: UI/UX design, Frontend Developer, App Developement.
+- Harsha
+- Contribution: Backend Developer Using AI, App Developement, Testing, debugging, and deployment support
 
 ---
 
